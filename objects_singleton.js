@@ -67,7 +67,7 @@ const { courseId: id } = course         // destructuring >>>>> now we can user c
 
 //console.log(id);
 
-{
+{                       //JSON format
   "name": "Drake",
     "age": "787",
       "isLoggedIn": false,
