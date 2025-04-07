@@ -64,21 +64,23 @@ if (true) {
 }
 //console.log(userName);
 
-//********************** hoisting
 
+//********************** function hoisting
+
+console.log(addOne(10));
 function addOne(number) {
   return number + 1
 }
 
-console.log(addOne(10));
+//********************** function expression
 
-
+console.log(addTwo(6));
 const addTwo = function (number) {
 
   return number + 2
 }
 
-console.log(addTwo(6));
+
 
 
 

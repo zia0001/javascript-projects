@@ -1,8 +1,8 @@
-// let myArray = [3, 4, 6, 98, 100]
+let myArray = [3, 4, 6, 98, 100]
 // console.log(myArray[3]);
 
-// let myfellows = ["hadi", "khalid", "suultan"]
-// myfellows = myArray
+let myfellows = ["hadi", "khalid", "suultan"]
+myfellows = myArray
 
 // console.log(myfellows[2]);
 
